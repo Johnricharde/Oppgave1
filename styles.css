@@ -1,6 +1,7 @@
 
 body {
-    margin-left: 30px;
+    margin: auto;
+    width: 520px;
 }
 h2 {
     border: solid gray 1px;
