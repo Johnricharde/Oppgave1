@@ -1,0 +1,45 @@
+
+body {
+    margin-left: 30px;
+}
+h2 {
+    border: solid gray 1px;
+    color: whitesmoke;
+    font-weight: 400;
+    padding: 5px;
+    text-align: center;
+    width: 500px;
+    height: 20px;
+    margin-bottom: 0;
+    padding: 10px;
+    user-select: none;
+}
+
+div.dropdown-box {
+    background-color: lightgray;
+    border: solid gray 1px;
+    padding: 10px;
+    width: 500px;
+}
+
+.pic-slide-box {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* All header colors */
+.header-green {
+    background-color: rgb(66, 171, 66);
+}
+.header-blue {
+    background-color: rgb(60, 128, 223);
+}
+.header-red {
+    background-color: red;
+}
+.header-yellow {
+    background-color: yellow;
+}
+.header-dark {
+    background-color: rgb(44, 47, 47);
+}
